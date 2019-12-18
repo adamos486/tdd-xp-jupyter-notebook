@@ -1,0 +1,5 @@
+month,trip_duration_sec,start_station_id,start_station_name,end_station_id,end_station_name,bike_id,user_type,member_birth_year,member_gender
+December,67439,195,Bay Pl at Vernon St,212,Mosswood Park,5118,Customer,1991,Male
+December,77996,96,Dolores St at 15th St,134,Valencia St at 24th St,2630,Customer,1984,Female
+December,51522,3,Powell St BART Station (Market St at 4th St),3,Powell St BART Station (Market St at 4th St),817,Customer,1973,Female
+December,47140,381,20th St at Dolores St,223,16th St Mission BART Station 2,4852,Customer,1997,Female

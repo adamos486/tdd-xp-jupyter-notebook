@@ -1,0 +1,10 @@
+month,trip_duration_sec,start_station_id,start_station_name,end_station_id,end_station_name,bike_id,user_type,member_birth_year,member_gender
+January,80825,229,Foothill Blvd at 42nd Ave,196,Grand Ave at Perkins St,4861,Subscriber,1989,Male
+January,65900,4,Cyril Magnin St at Ellis St,134,Valencia St at 24th St,5506,Subscriber,1989,Male
+January,62633,245,Downtown Berkeley BART,157,65th St at Hollis St,2717,Customer,1965,Female
+January,44680,85,Church St at Duboce Ave,53,Grove St at Divisadero,4557,Customer,1974,Male
+January,60709,16,Steuart St at Market St,28,The Embarcadero at Bryant St,2100,Customer,,
+January,6733,245,Downtown Berkeley BART,266,Parker St at Fulton St,3532,Subscriber,1994,Male
+January,1188,,Father Alfred E Boeddeker Park,146,30th St at San Jose Ave,5114,Subscriber,1985,Male
+January,1254,318,San Carlos St at Market St,314,Santa Clara St at Almaden Blvd,3967,Subscriber,1991,Male
+January,3153,29,O'Farrell St at Divisadero St,70,Central Ave at Fell St,4813,Subscriber,1979,Male
